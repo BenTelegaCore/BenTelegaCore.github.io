@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /home/
 title: "Home"
 author_profile: true
 redirect_from: 
-  - /
-  - /index.html
+  - /home
+  - /home.html
 ---
 
 {% include toc %}

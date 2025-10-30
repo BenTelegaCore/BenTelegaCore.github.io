@@ -1,0 +1,3 @@
+remote_theme: https://github.com/academicpages/academicpages.github.io
+plugins:
+- jekyll-remote-theme # add this line to the

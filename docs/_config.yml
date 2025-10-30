@@ -1,4 +1,4 @@
-remote_theme: https://github.com/BenTelegaCore/BenTelegaCore.github.io
+remote_theme: https://github.com/BenTelegaCore/site
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [The title of your site]
